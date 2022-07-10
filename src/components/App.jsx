@@ -3,6 +3,7 @@ import Header from "./Headings/Header";
 import List from "./Headings/List";
 import Gallery from "./Headings/Gallery";
 import Greetings from "./GreetingChallenge/Greetings";
+import Calculator from "./CalculatorChallenge/Calculator.jsx";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <List />
       <Gallery />
       <Greetings />
+      <Calculator />
     </div>
   );
 }
