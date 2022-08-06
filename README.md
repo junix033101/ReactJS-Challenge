@@ -1,4 +1,4 @@
 # ReactJS-Challenge
-Created with CodeSandbox \n
-Just a noob challenge for starters \n
+Created with CodeSandbox <br/>
+Just a noob challenge for starters <br/>
 Will be back here and recreate this
